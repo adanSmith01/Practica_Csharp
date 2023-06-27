@@ -1,0 +1,47 @@
+{
+    "color": "Rojo con blanco",
+    "numero_seccion": 2,
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Producto 1",
+        "cantidad": 10,
+        "tipo": "Electrónica",
+        "precio_unitario": 29.99,
+        "stock": true
+      },
+      {
+        "id": 2,
+        "nombre": "Producto 2",
+        "cantidad": 5,
+        "tipo": "Ropa",
+        "precio_unitario": 19.99,
+        "stock": true
+      },
+      {
+        "id": 3,
+        "nombre": "Producto 3",
+        "cantidad": 2,
+        "tipo": "Hogar",
+        "precio_unitario": 39.99,
+        "stock": false
+      },
+      {
+        "id": 4,
+        "nombre": "Producto 4",
+        "cantidad": 15,
+        "tipo": "Electrónica",
+        "precio_unitario": 49.99,
+        "stock": true
+      },
+      {
+        "id": 5,
+        "nombre": "Producto 5",
+        "cantidad": 8,
+        "tipo": "Ropa",
+        "precio_unitario": 24.99,
+        "stock": true
+      }
+    ]
+  }
+  
